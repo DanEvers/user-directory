@@ -40,7 +40,8 @@
 }
 
 #content-head {
-  padding: 45px 75px;
+  margin: 45px 75px;
+  margin-bottom: 0;
   font-size: 50px;
   text-decoration: underline;
   text-decoration-color: #35A6DA;
@@ -54,4 +55,9 @@
 
 #add-info {
   padding: 15px 75px;
+}
+
+#content-count {
+  margin: 0;
+  text-align: right;
 }
